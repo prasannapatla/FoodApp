@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FoodApp/static/css/main.7db56672.chunk.css",
+    "main.js": "/FoodApp/static/js/main.a9a192df.chunk.js",
+    "main.js.map": "/FoodApp/static/js/main.a9a192df.chunk.js.map",
+    "runtime-main.js": "/FoodApp/static/js/runtime-main.b01ac13e.js",
+    "runtime-main.js.map": "/FoodApp/static/js/runtime-main.b01ac13e.js.map",
+    "static/css/2.92aace85.chunk.css": "/FoodApp/static/css/2.92aace85.chunk.css",
+    "static/js/2.9440189a.chunk.js": "/FoodApp/static/js/2.9440189a.chunk.js",
+    "static/js/2.9440189a.chunk.js.map": "/FoodApp/static/js/2.9440189a.chunk.js.map",
+    "static/js/3.5d71f2b5.chunk.js": "/FoodApp/static/js/3.5d71f2b5.chunk.js",
+    "static/js/3.5d71f2b5.chunk.js.map": "/FoodApp/static/js/3.5d71f2b5.chunk.js.map",
+    "index.html": "/FoodApp/index.html",
+    "static/css/2.92aace85.chunk.css.map": "/FoodApp/static/css/2.92aace85.chunk.css.map",
+    "static/css/main.7db56672.chunk.css.map": "/FoodApp/static/css/main.7db56672.chunk.css.map",
+    "static/js/2.9440189a.chunk.js.LICENSE.txt": "/FoodApp/static/js/2.9440189a.chunk.js.LICENSE.txt",
+    "static/media/burger1.85ced486.jpg": "/FoodApp/static/media/burger1.85ced486.jpg",
+    "static/media/Banner.css": "/FoodApp/static/media/image.9575dd06.webp",
+    "static/media/burger3.2c47d1b9.jpg": "/FoodApp/static/media/burger3.2c47d1b9.jpg",
+    "static/media/logo.461611d7.png": "/FoodApp/static/media/logo.461611d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01ac13e.js",
+    "static/css/2.92aace85.chunk.css",
+    "static/js/2.9440189a.chunk.js",
+    "static/css/main.7db56672.chunk.css",
+    "static/js/main.a9a192df.chunk.js"
+  ]
+}
